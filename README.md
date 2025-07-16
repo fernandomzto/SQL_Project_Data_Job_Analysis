@@ -89,7 +89,7 @@ ORDER BY
     salary_year_avg DESC
 ```
 
-![Habilidades com melhor remuneração](.\assets\graficoanalise.jpg)
+![Habilidades com melhor remuneração](assets\graficoanalise.jpg)
 *Gráfico de barras mostrando as habilidades com melhores remunerações e a frequência em que apareceram; O gráfico foi gerado pelo ChatGPT através de um resultado de minha consulta SQL.*
 
 Insights obtidos:
